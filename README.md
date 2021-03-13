@@ -2,6 +2,20 @@
 
 A hospital app which can be used as a starter kit for various projects or it can be a good starting point for those who would like to learn more about application development and technology.
 
+### What can you find here?
+
+- Kotlin, Spring Framework, Spring Boot, Spring Security, Spring Webflux, 
+  Springdoc, Zookeeper, Kafka, Mongo, mongo-express, OAuth2, OpenID Connect,
+  Postgres, Keycloak, Elasticsearch, Logstash, Kibana, Docker, Mockk
+- Webflux functional endpoints
+- Kotlin coroutines usage
+- documenting functional endpoints for `coRouter` using `springdoc-openapi`
+- unit tests using `Mockk`
+- log aggregation using ELK stack
+- configure resource server using `spring-security-oauth2-resource-server` and `spring-security-oauth2-jose`
+- microservice architecture
+- software development patterns implementation
+
 ### Development
 
 1. Start containers using `./docker/docker-compose.yml`
