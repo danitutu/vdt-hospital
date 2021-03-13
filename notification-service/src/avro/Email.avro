@@ -1,0 +1,24 @@
+{
+  "namespace": "vdt.hospital.notification",
+  "type": "record",
+  "name": "Email",
+  "fields": [
+    {
+      "name": "from",
+      "type": "string"
+    },
+    {
+      "name": "to",
+      "type": "array",
+      "items": "string"
+    },
+    {
+      "name": "contentType",
+      "type": "string"
+    },
+    {
+      "name": "body",
+      "type": "string"
+    }
+  ]
+}
