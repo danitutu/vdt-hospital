@@ -1,6 +1,6 @@
 ## vdt-hospital
 
-A hospital app which can be used as a starter kit for various projects or it can be a good starting point for those who would like to learn more about application development and technology.
+A hospital app which can be used as a starter kit for various projects.
 
 ### What can you find here?
 
